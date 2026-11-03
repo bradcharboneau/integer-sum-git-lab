@@ -1,4 +1,4 @@
-DEFAULT_N = 10
+DEFAULT_N = 100
 def sum_first_n_loop(n):
     """Return the sum 1 + 2 + ... + n using a loop."""
     total = 0
